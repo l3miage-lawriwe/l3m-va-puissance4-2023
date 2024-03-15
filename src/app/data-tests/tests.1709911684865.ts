@@ -1,0 +1,1 @@
+export const dataTests = {"userMail":"elian.lawriw@etu.univ-grenoble-alpes.fr","version":1,"mutants":[],"suites":[{"id":"xIulN2y3qzU4yBXsi4rA","label":"Tests isValid état intial de jeu","LtestIds":[],"tests":[]}],"canObserveString":"[]","canObserve":"[]","evals":[-1,{"play":[0,0],"winner":[0,0],"isValid":[0,0]},{"winner":[0,0],"isValid":[0,0],"play":[0,0]}]}
